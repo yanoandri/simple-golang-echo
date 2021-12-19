@@ -1,4 +1,4 @@
-# Simple Golang Service using Echo
+# Simple Golang API using Echo
 
 run to initiate dependencies
 
